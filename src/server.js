@@ -1,3 +1,5 @@
+//This is the main Startup File
+
 var express=require('express');  
 var path=require('path');  
 var bodyParser=require('body-parser');  
@@ -15,7 +17,7 @@ var app=express();
 //Define the port and create an object of express class  
   
 app.set('view engine','ejs');  
-app.set('views',path.join(__dirname,'/client/views'));  
+app.set('views',path.join(__dirname,'/client/src'));  
   
 // define the view engine and set the path for views files  
   
