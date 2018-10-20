@@ -1,0 +1,6 @@
+Branching/Merging
+
+1. Latest working directory will be master.
+2. Switch to DEV for doing your code changes.
+3. Push your changes to DEV.
+4. Before merging to master, make sure to have proper code review.

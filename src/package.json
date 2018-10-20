@@ -1,0 +1,11 @@
+{
+  "name": "codinganthemweb",
+  "version": "1.0.0",
+  "description": "MEAN Stack for CodingAnthem",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CodingAnthem",
+  "license": "ISC"
+}
