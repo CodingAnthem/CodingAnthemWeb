@@ -1,0 +1,10 @@
+This space will be having Angular and node based client and server code.
+
+Follow below mwntioned steps:-
+
+- Install node and npm in your machine.
+- Clone the code into your machine
+- Open cmd and navigate to the folder where you have cloned the code.Then execute below commands one by one:
+	-> npm install
+	-> npm run build
+	-> npm start

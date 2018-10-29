@@ -1,0 +1,1 @@
+Space for having common things in a single place like- classes,interfaces, etc.
